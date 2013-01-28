@@ -1,7 +1,8 @@
 var Menu = require('./menu')
 
 module.exports = {
-  define: function(engine) {
-    return new Menu(engine)
+  init: function(engine, configure) {
+    engine.menu = new Menu(engine)
+    configure(engine.menu.configure())
   }
 }
