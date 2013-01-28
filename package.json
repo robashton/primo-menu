@@ -1,6 +1,6 @@
 {
   "name": "primo-menu",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Basic menu system for PrimoJS",
   "main": "primo-menu.js",
   "scripts": {
