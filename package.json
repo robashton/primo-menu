@@ -21,6 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "primo-utils": "0.0.0",
-    "underscore": "~1.4.3"
+    "underscore": "~1.4.3",
+    "primo-ui": "0.0.2"
   }
 }
